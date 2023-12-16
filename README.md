@@ -1,6 +1,6 @@
 # 📱 Mobile Testing 
 
-I`ve tested <a href="https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing"> Android mobile app </a> with the emulator "Android Studio". 
+I`ve tested <a href="https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing"> Android mobile app </a> with the emulator "Android Studio" (Pixel 7 Pro API 33 (Android 13.0 Google Play | x86_64). 
 
 The result: 
  <ul>
